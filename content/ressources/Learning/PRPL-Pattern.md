@@ -1,3 +1,11 @@
+---
+title: PRPL-Pattern
+draft: false
+publish: true
+tags:
+  - performance
+date: 2024-09-02
+---
 - [Guide](https://web.dev/articles/apply-instant-loading-with-prpl)
 - **Preload** the late discovered ressources
 	- preload is a declarative fetch request that tells the browser to request a ressource that is otherwise not discoverable by the browser like images in background css code
@@ -9,5 +17,5 @@
 - **Pre-Cache** remaining assets
 	- By acting as a proxy, **service workers** can fetch assets directly from the cache rather than the server on repeat visits. This not only allows users to use your application when they are offline, but also results in faster page load times on repeat visits.
 - **Lazy load** other routes and none-critical assets
--
--
+
+References: [[Performance]] [[Frontend Development]]

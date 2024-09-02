@@ -24,7 +24,7 @@
     * does not contain any logic 
   * Presenter
     * receives the input from the View
-    * proceses the data with the help of the Model
+    * processes the data with the help of the Model
     * passes the results back to the View
     * communicates with the View through an interface that is defined in the Presenter class
     * the view implements the interface

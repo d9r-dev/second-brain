@@ -1,3 +1,11 @@
+---
+title: The Art of Software Testing by Corey Sandler
+draft: false
+publish: true
+tags:
+  - testing
+date: 2024-09-02
+---
 - **The Psychology and Economics of Software Testing:**
 -
 - ## **The Psychology of Testing**
@@ -41,3 +49,5 @@
 	- Examining a program to see if it does not do what is is supposed to do is only half the battle; the other half is seeing whether the program does what it is not supposed to do.
 	- Avoid throwaway test cases unless the program is truly a throwaway program.
 	- Do not plan a testing effort under the tacit assumption that no errors will be found.
+
+References: [[Testing]]

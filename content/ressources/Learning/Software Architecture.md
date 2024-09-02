@@ -1,3 +1,11 @@
+---
+title: Software Architecture
+draft: false
+publish: true
+tags:
+  - software-architecture
+date: 2024-09-02
+---
 #  **Software Architecture**
 - Software Architecture is the process that takes place before any implementation where the basic architecture of the software takes place.
 - The software architecture of a system represents the design decisions related to overall system structure and behavior.
@@ -78,3 +86,5 @@
 - Architecting is a skill that agile teams embody, which means that Architect should not be a role
 - Architecting means continuously exploring new approaches and different alternatives to best meet quality attributes
 - The key activity of architecting is forming hypotheses about how the system will meet quality attribute goals, and then using empiricism to test whether the system meets them, and then repeating this loop until the system meets its quality goals
+
+References: [[Computer Science]] [[Software Development]]

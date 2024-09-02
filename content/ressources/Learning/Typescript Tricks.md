@@ -1,3 +1,11 @@
+---
+title: Typescript Tricks
+draft: false
+publish: true
+tags:
+  - typescript
+date: 2024-09-02
+---
 ## Using a Record Type for Dynamic Keys
 
 ```typescript
@@ -121,3 +129,5 @@ type AlbumPromise = Promise<Album>;
 
 type AlbumResolved = Awaited<AlbumPromise>;
 ```
+
+References: [[Typescript]] [[Javascript]]

@@ -1,7 +1,0 @@
-- [[Development Productivity]]
-- TODO:
-	- git, ansible, build-essentials
-	- zsh and oh-my-zsh
-	- neovim setup
-	- tmux setup
-	-
