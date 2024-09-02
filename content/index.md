@@ -1,8 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my Second Brain
 publish: true
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-Test
+Just another [[Second Brain]] or [[Digital Garden]] from another Software Developer.
+
+Some topics:
+
+- [[Software Development]]
+- [[Web Development]]
+- [[Software Architecture]]
+- [[Testing]]
+- [[SAP Commerce]]
