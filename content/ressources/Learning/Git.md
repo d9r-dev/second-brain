@@ -1,0 +1,9 @@
+- In depth account how Git works: [Gitting Things Done](https://www.freecodecamp.org/news/gitting-things-done-book/)
+- Metaphor of plumbing and porcelain
+	- Toilets are of porcelain and plumbing builds the infrastructure for their usage
+	- most people only deal with the porcelain
+	- porcelain layer is a user friendly interface to the plumbing
+- [[Software Development]]
+- Git diff
+	- ![image.png](../assets/image_1705483498539_0.png)
+-
