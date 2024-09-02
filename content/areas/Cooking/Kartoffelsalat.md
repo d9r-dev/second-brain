@@ -1,0 +1,3 @@
+Pellkartoffeln kochen . Abkühlen lassen und schälen. Dann klein schneiden und klein gewürfelte Äpfel, Gewürzgurken und Schinkenwurst/Räuchertofu dazu schütten. Den Saft von den Gewürzgurken etwas mit rein schütten. Pfeffer und Salz drauf und einen Spritzer Essig. Alles verrühren. Saure Sahne/Sojajoghurt drüber , verrühren und abschmecken. Ziehen lassen u nach Geschmack nachsalzen oder noch etwas Pfeffer dazu  
+  
+Auf anderthalb Sack Kartoffeln 3 bis vier Becher. Musst schauen sonst wird er zu flüssig. Lieber erst nicht so viel weil kannst ja immer noch mal bisschen saure Sahne rein machen wenn du es verrührt hast uns siehst das es zu trocken ist
