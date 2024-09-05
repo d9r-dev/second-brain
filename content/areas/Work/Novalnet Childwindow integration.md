@@ -5,6 +5,7 @@ publish: false
 tags:
   - Novalnet
   - Payment
+  - 📬
 date: 2024-09-02
 ---
 We send following request body for the request for the child window URL:

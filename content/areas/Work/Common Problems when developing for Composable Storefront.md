@@ -5,6 +5,7 @@ publish: false
 tags:
   - composable-storefront
   - SAP-Commerce
+  - 🌻
 date: 2024-09-02
 ---
 * If you set up your storefront url to https, you need to make sure that the development server is run in ssl mode:

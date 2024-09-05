@@ -5,6 +5,7 @@ publish: false
 tags:
   - Novalnet
   - Payment
+  - 📬
 date: 2024-09-02
 ---
 Integration per Unterfenster:

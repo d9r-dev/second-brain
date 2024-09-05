@@ -2,7 +2,8 @@
 title: Ideen T-Shirt
 draft: false
 publish: false
-tags: []
+tags:
+  - 📬
 date: 2024-09-02
 ---
 Ideen T-Shirt

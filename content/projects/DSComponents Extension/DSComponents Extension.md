@@ -5,6 +5,7 @@ publish: false
 tags:
   - SAP-Commerce
   - Extension
+  - 🌻
 date: 2024-09-02
 ---
 # DSComponents
