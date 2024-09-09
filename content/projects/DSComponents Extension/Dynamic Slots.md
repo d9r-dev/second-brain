@@ -7,7 +7,8 @@ tags:
   - 🌱
 date: 2024-09-02
 ---
-Smaredit komponente
+- Smaredit komponente
+	- Sicherstellen, dass Komponente nur angezeigt wird, wenn dynamisches template verwnedet wirddynam
 - Template mit ~20 Slotnames
 	- JSP anlegen
 	- Layout in Composable Storefront registrieren?
