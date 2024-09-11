@@ -1,2 +1,0 @@
-- Serviceworker für Caching?
-	- Workbox
