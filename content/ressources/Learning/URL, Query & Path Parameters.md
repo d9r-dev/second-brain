@@ -4,6 +4,7 @@ draft: false
 publish: false
 tags:
   - 🌻
+  - API-Design
 date: 2024-09-09
 ---
 ## The difference between a path variable and a query parameter

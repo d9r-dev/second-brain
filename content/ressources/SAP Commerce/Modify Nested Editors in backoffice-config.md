@@ -5,6 +5,7 @@ publish: true
 tags:
   - SAP-Commerce
   - Backoffice
+  - 🌲
 date: 2024-09-02
 ---
 I created a new Type for localized maps and the backoffice does not know OOTB how to handle that. So I wanted just the usual Backoffice editor for maps but nested in the localized editor. There is actually an article in the SAP Commerce documentation: [SAP Help Nested Editors](https://help.sap.com/docs/SAP_COMMERCE_CLOUD_PUBLIC_CLOUD/9b5366ff6eb34df5be29881ff55f97d2/8c163f19866910148f748048c64841eb.html?locale=en-US)
