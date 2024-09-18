@@ -12,3 +12,4 @@ Some topics:
 - [[Software Architecture]]
 - [[Testing]]
 - [[SAP Commerce]]
+- [[Scrum]]
