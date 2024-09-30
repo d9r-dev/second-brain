@@ -1,0 +1,5 @@
+[[Self-Serving Bias]]
+[[Fundamental Attribution Error]]
+[[Hindsight Bias]]
+[[Outcome Bias]]
+[[Planning Fallacy]]

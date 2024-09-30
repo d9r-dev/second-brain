@@ -1,0 +1,1 @@
+https://www.kitchensoap.com/2012/09/10/fundamental-stress-strain-curves-in-web-engineering/
