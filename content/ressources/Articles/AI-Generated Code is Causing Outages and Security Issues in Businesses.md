@@ -3,7 +3,6 @@ title: AI-Generated Code is Causing Outages and Security Issues in Businesses
 draft: false
 publish: true
 tags:
-  - 📬
   - 📖
 date: 2024-09-23
 ---

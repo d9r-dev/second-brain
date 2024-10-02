@@ -3,7 +3,8 @@ title: The Six Pillars of Self-Esteem
 draft: false
 publish: true
 tags:
-  - 🌱
+  - 📖
+  - 📬
 date: 2024-09-02
 ---
 Author: Nathaniel Branden

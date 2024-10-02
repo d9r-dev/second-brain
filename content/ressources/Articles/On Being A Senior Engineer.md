@@ -3,10 +3,10 @@ title: On Being A Senior Engineer
 draft: false
 publish: true
 tags:
-  - 📇
   - advice
   - engineering
   - culture
+  - 📖
 date: 2024-09-30
 ---
 [Source](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
