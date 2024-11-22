@@ -10,6 +10,7 @@ date: 2024-09-02
 - [[Modify Nested Editors in backoffice-config]]
 - [[Intercepting Populated Item Models Before Persistence]]
 - [[Loading a JSP for a Page Template From an Addon]]
+- [[Turn of DB_AUDIT logs in local development environment]]
 
 Links:
 
