@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de0814ed-fe44-41d8-a0c0-64b7a6389f8f" name="Changes" comment="remove .idea directory" />
+    <list default="true" id="de0814ed-fe44-41d8-a0c0-64b7a6389f8f" name="Changes" comment="remove .idea directory">
+      <change beforePath="$PROJECT_DIR$/content/areas/weekly notes/Notes Week 45.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
       <workItem from="1726057515768" duration="319000" />
       <workItem from="1726125192284" duration="132000" />
       <workItem from="1728822497223" duration="28000" />
+      <workItem from="1733249574591" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="remove .idea directory">
       <option name="closed" value="true" />
