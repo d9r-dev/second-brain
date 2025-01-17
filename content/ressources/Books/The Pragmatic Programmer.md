@@ -141,3 +141,19 @@ What to Say When Asked for an Estimate --> "I'll get back to you."
 
 75 
 "Tip 25 Keep Knowledge in Plain Text"
+
+91 Reproducing Bugs  
+  
+we want bugs that can be reproduced with a single command.  
+  
+Tip 31 Failing Test Before Fixing Code  
+  
+105 Design by Contract  
+  
+Preconditions: What must be true for the routine to be called  
+  
+Postconditions: What the routine is guaranteed to do.  
+  
+Class invariants: A class ensures that this condition is always true from the perspective of a caller.  
+  
+If all the routine's preconditions are met by the caller, the routine shall guarantee that all postconditions and invariants will be true when it completes.

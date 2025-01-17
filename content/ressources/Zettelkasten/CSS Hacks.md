@@ -4,6 +4,9 @@ draft: false
 publish: true
 tags:
   - 🌲
+  - CSS
+  - tricks
+  - web-dev
 date: 2024-09-04
 ---
 ## Expand the background of a container with less than 100% vw over the whole viewport
