@@ -1,3 +1,11 @@
+---
+title: Roadmap
+draft: false
+publish: true
+tags:
+  - 📬
+date: 2025-03-14
+---
 # Roadmap: Browser-Tabs-Synchronisation & Reader Mode Anwendung
 
 Diese Roadmap bietet eine detaillierte Schritt-für-Schritt-Anleitung mit abhakbaren ToDos zur Entwicklung der Anwendung. Neben den einzelnen Implementierungsschritten findest du auch offene Fragen, die noch geklärt werden müssen.
