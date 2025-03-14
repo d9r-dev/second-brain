@@ -14,3 +14,21 @@ Ted Chiang
 - "LLMs are blurry JPEGs of the web"
 - Humanism is refreshing
 - "I think we need to think about the possible bad outcomes and work to mitigate them; if we do that, we have a chance of preventing them from coming to pass. I don’t know if that’s optimism, unless everything except fatalism is optimism."
+---
+
+https://matthewstrom.com/writing/copying/
+
+Copying is a way to learn
+
+---
+Run Webkit on Windows
+## Method #1: Playwright CLI
+
+This first method is by far the easiest as it only requires having [Node.js](https://nodejs.org/en/) installed which comes with npm/npx. Once you have Node.js installed you will need to run the [Playwright](https://playwright.dev/) command to download the browsers.
+
+Open up the Command Prompt and type `npx playwright install`, then once this is done you can open up a url in WebKit by running the follow command `npx playwright wk https://dustinbrett.com/`, as described in the docs for [Command line tools -> Open Pages](https://playwright.dev/docs/cli#open-pages).
+
+---
+We are destroying software
+
+https://antirez.com/news/145

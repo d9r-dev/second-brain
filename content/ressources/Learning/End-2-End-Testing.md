@@ -11,3 +11,7 @@ date: 2024-09-02
 * [[Testing]]
 - [[Playwright]]
 - [What is End-to-End Testing](https://katalon.com/resources-center/blog/end-to-end-e2e-testing)
+
+## Tips & Tricks
+
+[[Using Playwright to Test in WebKit Browser (Safari)]]

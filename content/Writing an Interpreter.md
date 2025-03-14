@@ -1,0 +1,3 @@
+Source code is easy to use in an editor, but it is cumbersome to work with when interpreting. We need to transform our source code two times, to get a more accessible format.. First, we need to turn it into tokens. So for example: Each keyword of the programming language the interpreter is written for, will become a token. Also each identifier or value. The part of the interpreter that is doing that is called a Lexer and it is doing "lexical analysis" or "lexing".
+
+A production ready lexer would also add line numbers and columns to the tokens, to generate more precise error messages for example. 
