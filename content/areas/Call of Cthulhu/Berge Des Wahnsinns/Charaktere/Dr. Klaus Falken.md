@@ -1,0 +1,1 @@
+Leiter der [[Barsmeier-Falken-Antarktisexpedition]] von 1933. In erster Linie ist er daran interessiert, in Übereinstimmung mit dem Bericht Pyms Gegenstände aus den Kulturen früherer Bewohner der Antarktis zu finden.

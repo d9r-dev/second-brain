@@ -1,0 +1,1 @@
+Biologe und Okkultist; Mitglied der [[Barsmeier-Falken-Expedition]]. Er ist auf der Suche nach dem Ursprung allen Lebens auf Erden und fest überzeugt, in der Stadt der Älteren Wesen schlüssige Belege finden zu können.

@@ -1,0 +1,1 @@
+Millionenerbin und Weltreisende, fest entschlossen, die erste Frau am Südpol zu werden. Seit langem ist sie heftig mit [[James Starkweather]] verfeindet. Leiterin der [[Acacia-Lexington-Expedition]]

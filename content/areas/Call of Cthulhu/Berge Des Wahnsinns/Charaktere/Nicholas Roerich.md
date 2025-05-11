@@ -1,0 +1,1 @@
+International angesehener Bildhauer, Maler und Philanthrop, einst auch Freund von [[Percival Lexington]]; seine Bilder erinnern [[Prof. William Dyer|Dyer]] in vielerlei Hinsicht an das Miskatonic-Gebirge.

@@ -1,0 +1,13 @@
+Arthur McTighe ist ein großer, knochiger Mann Ende zwanzig, mit breitem, ausdrucksstarkem Mund, langen Händen und einem schwarzen Haarschopf, der spitz in der Mitte seiner Stirn zusammen läuft. Wenn die Charaktere Kontakt mit ihm aufnehmen, bittet er sie, ihn doch an seiner Arbeitsstätte zu treffen, der großen Funkempfangsstation einige Meilen außerhalb von Arkham auf Kingsport Head. (Wenn der Spielleiter möchte, kann er den Besuch auch noch mit einem kurzen Abenteuer in Kingsport verbinden.)
+
+Durch seine lockere Art und seinen trockenen Humor kann McTighe die meisten Menschen rasch für sich einnehmen, doch wenn die Rede auf die Antarktis-Expedition kommt, wird auch er rasch sehr ernst.
+
+„Die Berge des Wahnsinns. So hat Dyer sie genannt. Offiziell sind sie jetzt ja wohl das Miskatonic-Gebirge. So unvorstellbar… oh mein Gott! Fast wie eine Fieberfantasie… sie ragten so himmelstürmend empor, ganz und gar unausdenkliche Gipfel und Zacken und Zinnen. Und bös artig. Bösartig sahen sie aus. Waren sie auch, glaub ich.“
+
+Ein wenig später im Gespräch:
+
+„Professor Lake… wir alle… wir waren so aufgeregt. Sie hätten ihn hören müssen, er hat so schnell gesprochen, ich kam kaum noch mit. Diese Dinger, die er gefunden hatte – wie so ein eigenartiger Riesentang, oder gigantische Seesterne – Millionen Jahre alt, und er wollte sie auseinandernehmen und sehen, wie sie innendrin waren. Und er hat immer weiter gesprochen und weiter, und es wurde immer irrer. Sie hätten hören müssen, was er alles gesagt hat! Unglaubliche Sachen. Und es ergab alles keinen Sinn mehr. Ich glaube, am Ende fingen sie alle an, verrückt zu werden.“
+
+Wenn die Charaktere mehr über die „unglaublichen Sachen“ wissen möchten, wird McTighe zusehends unruhig und sagt nur noch wenig; er zieht sich darauf zurück, dass er sich nicht mehr erinnern könne. Wer sich mit Psychologie auskennt, bemerkt, dass das nicht hundertprozentig der Wahrheit entspricht. McTighes Laune bessert sich erst wieder, wenn das Gespräch auf andere Themen kommt. Über die Heimreise berichtet er:
+
+„Danforth, der hat mir wirklich leid getan. Nicht, dass ich ihn jemals sonderlich gemocht hätte, den miesen Snob. Aber – mein Gott! Wie er geschrien hat! Er schrie und er kreischte und er jammerte, und fluchte in allen möglichen komischen Sprachen… Wir mussten ihn fest binden, auf der ganzen Fahrt durchs Packeis. Ich hatte schon Angst, die Matrosen würden ihn umbringen, damit er sie bloß mal schlafen ließ. Berge des Wahnsinns, ja – bei ihm hat das auf jeden Fall voll und ganz gestimmt. Und dass man ihn dann in ein Pflegeheim gesteckt hat, das haben Sie ja vielleicht auch schon gehört? Pflege, die hat er auf jeden Fall gebraucht.“

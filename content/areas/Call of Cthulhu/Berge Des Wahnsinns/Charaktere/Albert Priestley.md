@@ -1,0 +1,1 @@
+Fotograf und Filmemacher; bei der Expedition nach Antarktika rechte Hand von [[Acacia Lexington]]. Er möchte aus dem Filmmaterial von Acacias Reise in den tiefst möglichen Süden einen abendfüllenden Dokumentarfilm machen.

@@ -1,0 +1,5 @@
+- Expedition aus _The Mountains of Madness_
+- Mit zwei Schiffen verließ die Antarktis-Expedition der Miskatonic-Universität den Hafen von Boston, finanziert aus Mitteln der Nathaniel-Pickman-Stiftung und einigen Sonderzulagen.
+- Lake fand Fossilien und Überreste von Lebewesen, die einen bisher bekannten glichen
+- Das gesamte Lager und ihre Teilnehmer wurden jedoch in einem Schneesturm zerstört
+- 

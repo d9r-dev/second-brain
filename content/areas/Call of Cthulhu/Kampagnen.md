@@ -1,0 +1,5 @@
+- Beyond the Mountain of Madness
+- Horror in the Orient Express
+	- vergriffen
+- The Fungi From Yuggoth
+- Our Ladies of Sorrow

@@ -1,0 +1,4 @@
+Weltreisender, Forscher und Führer; mit Moore führender Kopf und Finanzier der Starkweather-Moore-Antarktisexpedition 1933. Starkweather hofft darauf, dass er dadurch, dass er den Grund für die Tode in der Expedition von [[Percival Lake|Lake]] enthüllt und die noch nicht kartierten Lande jenseits des Miskatonic-Gebirges erschließt, die Welt in Atem halten und zum größten Forscher aller Zeiten werden wird.
+
+- ist eine dynamische, einnehmende Persönlichkeit mit einem aus ge prägten Sinn für dramatische Auftritte und einem starken Drang zum Handeln, zum Selbermachen, zum Selbersehen, doch er hat keinerlei Sinn für Details.
+- 

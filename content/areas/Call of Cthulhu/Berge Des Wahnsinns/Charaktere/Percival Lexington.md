@@ -1,0 +1,1 @@
+Wohlhabender Wirtschaftskapitän, verstorben. Vater von [[Acacia Lexington]]. PW, wie ihn seine Freunde nannten, beging 1921 unter mysteriösen Umständen offenbar Selbstmord. Er war der letzte bekannte Besitzer der vollständigen Fassung von Pyms Erlebnissen.

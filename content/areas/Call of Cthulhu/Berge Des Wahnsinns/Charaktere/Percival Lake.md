@@ -1,0 +1,1 @@
+Biologe und Mitglied der [[Antarktis-Expedition der Miskatonic-Universität im Jahre 1930]]. Er entdeckte in den Vorbergen des Miskatonic-Gebirges Fossilien und Gebeine von vielen Pflanzen und Tieren, die der Wissenschaft bis dato unbekannt waren, kam jedoch kurz darauf mit dem Rest seines Expeditionstrupps bei einem Schneesturm ums Leben.

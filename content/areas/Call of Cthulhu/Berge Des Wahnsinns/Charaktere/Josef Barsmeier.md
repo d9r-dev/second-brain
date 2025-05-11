@@ -1,0 +1,1 @@
+Leiter der [[Barsmeier-Falken-Antarktisexpedition]] von 1933. Sein besonderes Interesse gilt Boden schätzen auf der Antarktischen Halbinsel und am Weddell-Meer.

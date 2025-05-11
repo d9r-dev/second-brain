@@ -1,0 +1,1 @@
+Ein junger Seemann zu Beginn des 19. Jahrhunderts, dessen Erlebnisbericht von seiner Reise in die Antarktis von Edgar Allan Poe redigiert und als literarisches Werk veröffentlicht wurde. Er kam 1837 unter ungeklärten Umständen ums Leben.
