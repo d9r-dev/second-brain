@@ -1,0 +1,1 @@
+Entwerfe einen Charakterbild für einen Investigator für das Rollenspiel Call of Cthulhu. Das Jahr des Abenteuers ist 1933. Ich gebe dir die Daten des Charakterbogens und du erzeugst ein Stimmungsvolles Bild von der Person in ihrer gewöhnlichen Umgebung: 

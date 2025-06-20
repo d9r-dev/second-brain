@@ -1,0 +1,1 @@
+https://codecatalog.org/articles/error-prone-test-helper/

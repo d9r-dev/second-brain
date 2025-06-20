@@ -1,0 +1,3 @@
+Das Hotel Amherst ist ein fünfstöckiges, schon etwas älteres Gebäude mittlerer Größe an der Ecke 8th Avenue und 44th Street in Manhattan, nur zwei Häuserblocks vom Times Square entfernt in einem ruhigen Büroviertel. Die obere Hälfte der Stockwerke, die dritte und vierte Etage also, sind für die Expedition und ihre Mitglieder reserviert.
+
+Das Hotelfoyer ist dunkel und nicht besonders groß, mit ölimprägnierten Holzpaneelen und zwei etwas verblichenen Zimmerpalmen links und rechts des Eingangs.

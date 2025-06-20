@@ -1,4 +1,4 @@
-Der Abschlussbericht kann in der Universitätsbuchhandlung der Miskatonic-Uni versi tät für 5 Dollar gekauft, aber auch in vielen akademischen Bib lio theken im ganzen Land aus ge liehen werden; auch die New York Public Library, eine der größten Bibliotheken der Stadt und des Landes, verfügt über eine Ausgabe. Eine eingehende Lektüre nimmt mindestens eine Woche in Anspruch;
+Der Abschlussbericht kann in der Universitätsbuchhandlung der Miskatonic-Universität für 5 Dollar gekauft, aber auch in vielen akademischen Bibliotheken im ganzen Land aus geliehen werden; auch die New York Public Library, eine der größten Bibliotheken der Stadt und des Landes, verfügt über eine Ausgabe. Eine eingehende Lektüre nimmt mindestens eine Woche in Anspruch;
 
 Im Folgenden fassen wir den Inhalt des Abschließenden Berichtes zusammen. Wenn ein Spieler sich eine Ausgabe des Abschlussberichtes kauft oder eine andere Möglichkeit findet, sich diesen akademischen Wälzer zu Gemüte zu führen, kann der Spielleiter den Rest dieses Abschnittes laut vorlesen.
 

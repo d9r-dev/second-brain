@@ -2,8 +2,8 @@
 	* [x] TimeStamps and Games wann gestoppt
 	* [x] Scheduled Task für Löschung
 * [x] Buffered Rendering
-- [ ] Start Stop Message Handling
-* [ ] Compression der Websocket Nachrichten
+- [x] Start Stop Message Handling
+* [x] Compression der Websocket Nachrichten
 * [ ] Spiele selbst erstellen
 * [ ] Spiele importieren
 	* [ ] Validierung von importierten Files
